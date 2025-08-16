@@ -44,19 +44,19 @@ Chương trình cung cấp các tính năng sau:
 ---
 
 ##Ví dụ giao diện console 💡
-================ Mountain Hiking Challenge ================
+- ================ Mountain Hiking Challenge ================
 
-1.New Registration
-2.Update Registration
-3.Display Registered List
-4.Delete Registration
-5.Search by Name
-6.Filter by Campus
-7.Statistics by Location
-8.Save Data
-9.Exit
-===========================================================
-**Please select an option (1-9):**
+- 1.New Registration
+- 2.Update Registration
+- 3.Display Registered List
+- 4.Delete Registration
+- 5.Search by Name
+- 6.Filter by Campus
+- 7.Statistics by Location
+- 8.Save Data
+- 9.Exit
+- ===========================================================
+- **Please select an option (1-9):**
 
 ---
 
@@ -77,4 +77,4 @@ Chương trình cung cấp các tính năng sau:
 ---
 👨‍💻 Tác giả
 
-Võ Gia Huy – CLB F-code – FPT University
+**Võ Gia Huy – CLB F-code – FPT University**
