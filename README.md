@@ -1,7 +1,7 @@
 # 🏔️ Mountain Hiking Challenge Registration
 
 ## 📌 Giới thiệu
-Xin chào! Mình là **Võ Gia Huy**, thành viên **CLB F-code**, đây là project Java trong môn **LAB211 Assignment – OOP with Java**.  
+Xin chào! Mình là **Võ Gia Huy**, thành viên **CLB F-code**, đây là project **Java.**  
 
 Dự án **Mountain Hiking Challenge Registration** được xây dựng nhằm hỗ trợ quản lý thông tin đăng ký của sinh viên **FPT University** tham gia phong trào *"Because a Generation of Intellectuals Dares to Think and Do"*, được tài trợ bởi **Viettel** và **VNPT**.  
 
@@ -43,4 +43,38 @@ Chương trình cung cấp các tính năng sau:
 
 ---
 
+##Ví dụ giao diện console 💡
+================ Mountain Hiking Challenge ================
 
+1.New Registration
+2.Update Registration
+3.Display Registered List
+4.Delete Registration
+5.Search by Name
+6.Filter by Campus
+7.Statistics by Location
+8.Save Data
+9.Exit
+===========================================================
+**Please select an option (1-9):**
+
+---
+
+## 📂 Cấu trúc file dữ liệu
+- `MountainList.csv` → chứa danh sách mã núi.  
+- `registrations.dat` → file nhị phân lưu dữ liệu đăng ký.  
+
+---
+
+## 🚀 Cách chạy chương trình
+1. Clone project:
+   ```bash
+   git clone https://github.com/Hank62-dev/MountainHiking.git
+2. Mở project trong IDE (NetBeans, IntelliJ, Eclipse).
+3. Run file Main.java.
+4.Thao tác trên menu console.
+
+---
+👨‍💻 Tác giả
+
+Võ Gia Huy – CLB F-code – FPT University
